@@ -122,18 +122,7 @@ Olá, meu nome é Amanda, tenho 25 anos e atualmente estou cursando Desenvolvime
   [![Behance](https://img.shields.io/badge/Behance-755b25?style=for-the-badge&logoColor=fff)](https://www.behance.net/alyany1)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logoColor=fff)](https://www.linkedin.com/in/amanda-rodrigues-679b88284/)
 
-##
 
-<br>
-
-<div align="center">
-  <p align="center"><img align="center" src="https://amandar-lab.com/ghpvc/?username=amandar-lab&abbreviated=true&style=flat-square&color=755b25" /></p> 
-
-</div>
-
-<br>
-<br>
-<br>
     
 
 
