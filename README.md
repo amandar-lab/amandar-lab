@@ -112,7 +112,18 @@ Olá, meu nome é Amanda, tenho 25 anos e atualmente estou cursando Desenvolvime
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandar-lab&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+
+### 😊 Contate-me
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logoColor=fff)](mailto:amandaeee4@gmail.com)
+  [![Site](https://img.shields.io/badge/Site-755b25?style=for-the-badge&logoColor=fff)](https://readymag.website/5790463)
+  [![Behance](https://img.shields.io/badge/Behance-755b25?style=for-the-badge&logoColor=fff)](https://www.behance.net/alyany1)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logoColor=fff)](www.linkedin.com/in/amanda-rodrigues-679b88284)
+
+
+    
+
 
 
