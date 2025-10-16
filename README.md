@@ -120,7 +120,7 @@ Olá, meu nome é Amanda, tenho 25 anos e atualmente estou cursando Desenvolvime
   [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logoColor=fff)](mailto:amandaeee4@gmail.com)
   [![Site](https://img.shields.io/badge/Site-755b25?style=for-the-badge&logoColor=fff)](https://readymag.website/5790463)
   [![Behance](https://img.shields.io/badge/Behance-755b25?style=for-the-badge&logoColor=fff)](https://www.behance.net/alyany1)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logoColor=fff)](www.linkedin.com/in/amanda-rodrigues-679b88284)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logoColor=fff)](https://www.linkedin.com/in/amanda-rodrigues-679b88284/)
 
 
     
